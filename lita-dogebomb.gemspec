@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-pugbomb"
+  spec.name          = "lita-dogebomb"
   spec.version       = "1.0.0"
   spec.authors       = ["Andrew Hayworth"]
   spec.email         = ["ahayworth@gmail.com"]
